@@ -8,8 +8,8 @@ It requires:
 You can use the follwoing commands to install the dependencies.
 
 ```bash
-    pip install pyTelegramBotAPI
-    pip install PySide6
+pip install pyTelegramBotAPI
+pip install PySide6
 ```
     
 ## Demo
