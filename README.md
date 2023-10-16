@@ -7,4 +7,4 @@ This specifically built as a was to notify multiple users.
 
 Insert gif or link to demo
 
-https://github.com/KodinGuy08/TelegramBot/blob/main/demo.png
+![alt text](https://github.com/KodinGuy08/TelegramBot/blob/main/demo.png)
